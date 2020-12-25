@@ -1,2 +1,5 @@
 # My First Web Page
-`println("Hello git my name is Nadech`
+## Why I made this repository?
+1. I handsome
+2. I cute
+3. I love to learn
